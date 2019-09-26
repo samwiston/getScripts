@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Sam Wiston
-#Last Edited 9/26/19 2:30PM EDT
+#Last Edited 9/26/19 2:32PM EDT
 
 from bs4 import BeautifulSoup
 import requests
